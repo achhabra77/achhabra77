@@ -6,6 +6,10 @@
   - [Over the Wire - Bandit Capture the Flag - CTF - Website](https://overthewire.org/wargames/bandit/)
   - [Over the Wire - Bandit Capture the Flag - Solution Set](https://github.com/achhabra77/OTW_Bandit_Solution_Set)
 
+### 👨‍💻 Technical Guides/Walkthroughs:
+- <b>Windows Path Variables - What are they and how to edit/configure them.</b>
+- [Windows Path Variables - Website](https://github.com/achhabra77/Windows_Path_Variable)
+
 
 ### 🤳 Connect with me:
 
