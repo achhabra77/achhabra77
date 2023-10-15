@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Technical Guides/Walkthroughs:
 - <b>Windows Path Variables - What are they and how to edit/configure them.</b>
-- [Windows Path Variables - Website](https://github.com/achhabra77/Windows_Path_Variable)
+- [Windows Path Variables - Configuration Guide/Walkthrough](https://github.com/achhabra77/Windows_Path_Variable)
 
 
 ### 🤳 Connect with me:
