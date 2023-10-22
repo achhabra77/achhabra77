@@ -11,7 +11,7 @@
 - [Windows Path Variables - Configuration Guide/Walkthrough](https://github.com/achhabra77/Windows_Path_Variable)
 
 
-- <b>Windows Moile Hotspot - A walkthrough/guide on configuring a Windows workstation as a Wifi hotspot to disseminate internet access..</b>
+- <b>Windows Moile Hotspot - A walkthrough/guide on configuring a Windows workstation as a Wifi hotspot to disseminate internet access.</b>
 - [Windows Mobile Hotspot - Configuration Guide/Walkthrough](https://github.com/achhabra77/Windows_Mobile_Hotspot/blob/main/Windows%20Mobile%20Hotspot.pdf)
 
 
