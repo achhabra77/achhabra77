@@ -12,10 +12,14 @@
 
 - <b>Windows Moile Hotspot - A walkthrough/guide on configuring a Windows workstation as a Wifi hotspot to disseminate internet access.</b>  [Windows Mobile Hotspot - Configuration Guide/Walkthrough](https://github.com/achhabra77/Windows_Mobile_Hotspot/blob/main/Windows%20Mobile%20Hotspot.pdf)
 
-### 👨‍💻 Windwos - Command Line Interface (CLI) - Command Guides/Walkthroughs:
+### 👨‍💻 Windows - Command Line Interface (CLI) - Command Guides/Walkthroughs:
 - <b>Windows - CLI - find command - A walkthrough/guide on utilizing the Windows CLI find command to search for text strings in a file/files.</b>
   - [Windows CLI find Command Guide/Walkthrough](https://github.com/achhabra77/Windows_CLI_find_command/blob/main/Windows_Find_Command.pdf)
   - [Windows CLI find Command - Data File - fruit.txt](https://github.com/achhabra77/Windows_CLI_find_command/blob/main/fruit.txt)
+
+- <b>Windows - CLI - type command - A walkthrough/guide on utilizing the Windows CLI type command to view text file(s) nativley within command line.</b>
+  - [Windows CLI find Command Guide/Walkthrough](https://github.com/achhabra77/Windows_CLI_find_command/blob/682f553ae65153a83d935980d7ca528c6d123cb8/Windows_CLI_type_command/Windows%20Type%20Command.pdf)
+  - [Windows CLI type Command - Data File - Type_Command_Data_File](https://github.com/achhabra77/Windows_CLI_find_command/blob/fe8b07f207d17f88a69ffa25ecba751cf25c6ad2/Windows_CLI_type_command/Type_Command_Data_File.bat)
 
 
 ### 🤳 Connect with me:
